@@ -16,3 +16,31 @@ html, body {
   height: 1038px;
   transform: translateY(0);
 }
+.layer-0 {
+  background-image: url(../img/layer0.png);
+  background-color: #ffaf1b;
+}
+.layer-1 {
+  background-image: url(../img/layer1.png);
+}
+.layer-2 {
+  background-image: url(../img/layer2.png);
+}
+.layer-3 {
+  background-image: url(../img/layer3.png);
+}
+.layer-4 {
+  background-image: url(../img/layer4.png);
+}
+.layer-5 {
+  background-image: url(../img/layer5.png);
+}
+.layer-6 {
+  background-image: url(../img/layer6.png);
+}
+.layer-7 {
+  background-image: url(../img/layer7.png);
+}
+.layer-8 {
+  background-image: url(../img/layer8.png);
+}

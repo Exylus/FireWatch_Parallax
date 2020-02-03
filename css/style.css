@@ -44,3 +44,38 @@ html, body {
 .layer-8 {
   background-image: url(../img/layer8.png);
 }
+
+/* CONTENT */
+#content {
+  background-color: #210002;
+  position: relative;
+  z-index: 1;
+}
+#content p {
+  margin-bottom: 0;
+}
+#content ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 25px;
+  width: 325px;
+  display: inline-block;
+}
+#content li {
+  margin-bottom: 40px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+}
+#content h4 {
+  font-size: 18px;
+  letter-spacing: 3px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: #FFAF00;
+  color: #210002;
+}
+#content h4 img {
+  height: 17px;
+  width: auto;
+}

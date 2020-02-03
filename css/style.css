@@ -75,7 +75,37 @@ html, body {
   background-color: #FFAF00;
   color: #210002;
 }
+#content li :hover {
+  background-color: #FFFFFF;
+}
 #content h4 img {
   height: 17px;
   width: auto;
+}
+#content .wrap {
+  max-width: 900px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: 2;
+  background-color: #210002;
+  color: #FFAF00;
+  text-align: center;
+}
+#content h3 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+#content article p {
+  margin-bottom: 24px;
+  width: 325px;
+  display: inline-block;
+  text-align: left;
+  line-height: 40px;
+}
+#content article p.left {
+  margin-right: 50px;
 }

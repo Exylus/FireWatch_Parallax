@@ -1,0 +1,18 @@
+/* BASE RESET CSS*/
+html, body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+/* PARALLAX CONTAINER */
+#parallax-container {
+  display: block;
+  height: 1038px;
+}
+#parallax-container div {
+  position: fixed;
+  top: 0;
+  background-position: center !important;
+  width: 100%;
+  height: 1038px;
+  transform: translateY(0);
+}
